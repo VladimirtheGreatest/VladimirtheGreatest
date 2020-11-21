@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Gamer, and Fitness Maniac!!
 
-- 🔭 My core skills are c#, JavaScript and Umbraco!
+- 🔭 My core skills are C#, JavaScript and Umbraco!
 - 🌱 I’m currently learning machine learning 🤣
 - 👯 This year I started working on the project Petlog(the UK`s largest database for microchipped pets).
 - 🥅 2021 Goals: Finish my first data science project, learn more about microservices in Node.js.
@@ -13,10 +13,10 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdP5taLJ-WZ_7TQJblt0BxRu2-lCx_YnUkiw&usqp=CAU" />
-<img align="left" alt="C#" width="26px" src="https://miro.medium.com/fit/c/1838/551/1*uhSX5djhrWiguXoWsW_lEw.png" />
-<img align="left" alt="Umbraco" width="26px" src="https://umbraco.com/media/ziikdjap/umbraco_social_og.png?crop=0.0010321753986332544,0.068669324221716038,0,0&cropmode=percentage&width=1200&height=628&rnd=132375518834670000" />
-<img align="left" alt="Azure" width="26px" src="https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&strip=all" />
+<img align="left" alt="Visual Studio" width="26px" src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2018/10/Visual-Studio-Logo.png" />
+<img align="left" alt="C#" width="26px" src="https://ih1.redbubble.net/image.416412087.0587/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg" />
+<img align="left" alt="Umbraco" width="26px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_e6c496d8b3cce1a0c38ff4704771b315/umbraco.png" />
+<img align="left" alt="Azure" width="26px" src="https://aidanfinn.com/wp-content/uploads/2017/09/Azure-Logo.jpg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
