@@ -17,7 +17,7 @@
 <img align="left" alt="C#" width="30px" src="https://cdathenry.files.wordpress.com/2015/11/csharp.png" />
 <img align="left" alt="Umbraco" width="30px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_e6c496d8b3cce1a0c38ff4704771b315/umbraco.png" />
 <img align="left" alt="Azure" width="30px" src="https://aidanfinn.com/wp-content/uploads/2017/09/Azure-Logo.jpg" />
-<img align="left" alt=" Microsoft Dynamics" width="30px" src="https://i.pinimg.com/736x/f9/1f/44/f91f4432fec7f3582d0542c21e1310b6.jpg" />
+<img align="left" alt=" Microsoft Dynamics" width="30px" src="https://www.leadliaison.com/wp-content/uploads/2017/10/microsoft-dynamics-crm-and-marketing-automation-300x294.jpg" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
