@@ -1,12 +1,13 @@
 ### Hi there, I'm Vladimir - aka [VladPutin] 👋
 
-## I'm a Developer, Gamer, and Fitness Maniac!!
+## I'm a Programmer, Gamer, and Fitness Maniac!!
 
 - 🔭 My core skills are C#, JavaScript and Umbraco!
 - 🌱 I’m currently bulking 
 - 👯 This year I started working for a new company.
 - 🥅 2021 Goals: learn more about microservices in .NET and also improve my SQL skills to the highest possible level.
 - ⚡ Currently playing Valorant and Battlegrounds mode in Hearstone
+- ⚡ Crypto Enthusiast
 
 <br />
 
