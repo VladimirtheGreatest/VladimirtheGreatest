@@ -5,7 +5,7 @@
 - 🔭 My core skills are C#, JavaScript and Umbraco!
 - 🌱 I’m currently bulking 
 - 👯 This year I started working for a new company.
-- 🥅 2021 Goals: learn more about microservices in .NET and also improve my SQL skills to the highest possible level.
+- 🥅 2021 Goals: learning Angular, TypeScript.
 - ⚡ Currently playing Valorant and Battlegrounds mode in Hearstone
 - ⚡ Crypto Enthusiast
 
