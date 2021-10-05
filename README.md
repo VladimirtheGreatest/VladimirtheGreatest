@@ -15,7 +15,7 @@
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio" width="30px" src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2018/10/Visual-Studio-Logo.png" />
-<img align="left" alt="C#" width="30px" src="https://cdathenry.files.wordpress.com/2015/11/csharp.png" />
+<img align="left" alt="C#" width="30px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />
 <img align="left" alt="Umbraco" width="30px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_e6c496d8b3cce1a0c38ff4704771b315/umbraco.png" />
 <img align="left" alt="Azure" width="30px" src="https://aidanfinn.com/wp-content/uploads/2017/09/Azure-Logo.jpg" />
 <img align="left" alt=" Microsoft Dynamics" width="30px" src="https://www.leadliaison.com/wp-content/uploads/2017/10/microsoft-dynamics-crm-and-marketing-automation-300x294.jpg" />
