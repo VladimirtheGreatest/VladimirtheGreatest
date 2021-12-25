@@ -2,11 +2,11 @@
 
 ## I'm a Programmer, Gamer, and Fitness Maniac!!
 
-- 🔭 My core skills are C#, JavaScript and Umbraco!
-- 🌱 I’m currently bulking 
-- 👯 This year I started working for a new company.
-- 🥅 2021 Goals: learning Angular, TypeScript, Solidity.
-- ⚡ Currently playing New World.
+- 🔭 My core skills are C# and JavaScript.
+- 🌱 I enjoy working with smart people that have a great sense of humour.
+- 👯 Currently working as a C# Software Engineer for one of the biggest IT companies in the UK.
+- 🥅 2022 Goals: learning Solidity, and Smart Contracts to build production-ready apps based on the blockchain.
+- ⚡ Currently playing Valorant.
 - ⚡ Crypto Enthusiast
 
 <br />
