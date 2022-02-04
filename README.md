@@ -6,7 +6,7 @@
 - 🌱 I enjoy working with smart people that have a great sense of humour.
 - 👯 Currently working as a C# Software Engineer for one of the biggest IT companies in the UK.
 - 🥅 2022 Goals: learning Solidity, and Smart Contracts to build production-ready apps based on the blockchain.
-- ⚡ Currently playing Valorant.
+- ⚡ Currently playing Valorant(Duelist/Controller). DPS player in most PVP, PVE games.
 - ⚡ Crypto Enthusiast
 
 <br />
