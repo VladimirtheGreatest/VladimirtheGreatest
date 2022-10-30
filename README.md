@@ -4,9 +4,9 @@
 
 - 🔭 My core skills are C# and JavaScript.
 - 🌱 I enjoy working with smart people that have a great sense of humour.
-- 👯 Currently working as a C# Software Engineer for one of the biggest IT companies in the UK.
-- 🥅 2022 Goals: learning more about WPF and MVVM, CI/CD in azure. 
-- ⚡ Currently playing Valorant(Duelist/Controller). DPS player in most PVP, PVE games.
+- 👯 Full stack .NET dev.
+- 🥅 2023 Goals: learning React and becoming a senior developer. 
+- ⚡ Currently playing New World, Tank/DPS.
 - ⚡ Crypto Enthusiast
 
 <br />
