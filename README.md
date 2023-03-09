@@ -4,10 +4,10 @@
 
 - 🔭 My core skills are C# and JavaScript.
 - 🌱 I enjoy working with smart people that have a great sense of humour.
-- 👯 Full stack .NET dev.
-- 🥅 2023 Goals: learning React and becoming a senior developer. 
+- 👯 Experienced full-stack .NET developer working for one of the largest automotive service organizations in the industry.
+- 🥅 Strong foundation in Microsoft stack, as well as a keen interest in exploring and mastering new technologies.
 - ⚡ Currently playing New World, Tank/DPS.
-- ⚡ Crypto Enthusiast
+- ⚡ I may not be the most talented developer out there, but what I lack in natural ability, I make up for in sheer perseverance. I'll keep on coding until I get it right, even if it means staying up all night with a pot of coffee, redbull and a stubborn bug that just won't quit.
 
 <br />
 
